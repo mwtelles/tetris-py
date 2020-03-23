@@ -9,5 +9,5 @@ Python: Python3.5+(have installed necessary dependencies)
 Step1:
 pip install -r requirements.txt
 Step2:
-run "python Game11.py"
+run "python tetris.py"
 ```
